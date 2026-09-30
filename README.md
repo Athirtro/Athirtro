@@ -119,8 +119,8 @@ Por ahora, mi objetivo es seguir aprendiendo, construir cosas y entender cada ve
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Athirtro&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirtro&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ## Contacto
